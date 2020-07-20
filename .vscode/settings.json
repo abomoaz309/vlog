@@ -1,0 +1,12 @@
+{
+    "editor.codeActionsOnSave": null,
+    "workbench.colorCustomizations": {
+        "terminal.foreground" : "#df00fd",
+        "terminal.background" : "#e4e1e1"
+    },
+    "editor.fontFamily": "Hack",
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.wordWrap": "on"
+}
